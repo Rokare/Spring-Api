@@ -1,9 +1,0 @@
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/EcomProjApplication.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/controller/ProductController.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/controller/UserController.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/model/Product.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/model/User.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/repo/ProductRepo.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/repo/UserRepo.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/service/ProductService.java
-/home/user/java/ecom-proj/src/main/java/com/telusko/ecom_proj/service/UserService.java
